@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aman0307
 - 👀 I’m interested in developing software that help solve issues.
-- 🌱 I’m currently learning BTech. from IIIT Nagpur, India.
+- 🌱 I’m currently studying BTech. from IIIT Nagpur, India.
 - 🚀 I’m looking to collaborate on any cool open source projects and different technologies.
 - 📫 Email-id: amansingh5123@gmail.com 
 
